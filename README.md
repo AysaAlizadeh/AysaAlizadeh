@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning front-end development 👩🏻‍💻
+- 💬 Ask me about CSS
+- 📫 How to reach me: aysalizadeh82@gmail.com
+- 😄 Pronouns: She/Her
+
+
 <!--
 **AysaAlizadeh/AysaAlizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
