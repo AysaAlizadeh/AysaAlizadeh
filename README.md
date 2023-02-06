@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning front-end development 👩🏻‍💻
-- 💬 Ask me about CSS
 - 📫 How to reach me: aysalizadeh82@gmail.com
 - 😄 Pronouns: She/Her
 
